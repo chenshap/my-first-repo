@@ -1,3 +1,6 @@
-# Peer-graded Assignment: Bash, Make, Git, and GitHub
-##The date and time which **make** was run is 
-The number of lines of code contained in **guessinggame.sh** is:20
+# Guessing Game Bash Script for Unix Workbench
+
+* This Make file was ran at: 2019-03-11:12:06:34
+
+* There were       20 lines in guessinggame.sh
+
